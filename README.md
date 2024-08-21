@@ -21,7 +21,7 @@ Alternatively, you can host the website on any web server or deploy it using pla
 
 **Clone the Repository**
 To make a local copy of this project, you can clone the repository using the following command:
-git clone https://github.com/liam-007/ html-css-js-portfolio.git
+git clone https://github.com/liam-007/html-css-js-portfolio/.git
 
 **Usage**
 •	Navigation: Use the top navigation menu to quickly jump to different sections of the website.
